@@ -9,3 +9,6 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
 <p>:office: <b>Compasso UOL</b></p>
 <p>:mortar_board: <b>Gestão em TI</b></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerMengue&layout=compact&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerManko&show_icons=true&bg_color=000000&text_color=c9d1cd) 

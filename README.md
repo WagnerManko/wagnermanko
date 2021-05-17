@@ -9,4 +9,3 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
 <p>:office: <b>Compasso UOL</b></p>
 <p>:mortar_board: <b>Gestão em TI</b></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WagnerManko)](https://github.com/anuraghazra/github-readme-stats)

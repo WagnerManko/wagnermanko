@@ -8,7 +8,7 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerMengue&layout=compact&theme=vue-dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerManko&layout=compact&theme=vue-dark" />
 </a>
 
 <p>:computer: <b>NodeJs, ReactJS & React Native</b></p><br>

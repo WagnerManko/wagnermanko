@@ -11,6 +11,6 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerManko&layout=compact&theme=vue-dark" />
 </a>
  
-<p>:computer: <b>NodeJs, ReactJS & React Native</b></p><br>
+<p>:computer: <b>ReactJS & React Native</b></p><br>
 <p>:office: <b>Compasso UOL</b></p><br>
 <p>:mortar_board: <b>Gestão em TI</b></p>

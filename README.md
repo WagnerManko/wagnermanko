@@ -13,5 +13,5 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
  
 <p>:computer: <b>ReactJS</b></p><br>
 <p>:iphone: <b>ReactJS</b></p><br>
-<p>:office: <b>Compasso UOL</b></p><br>
+<p>:office: <b>CompassUOL</b></p><br>
 <p>:mortar_board: <b>Gestão em TI</b></p>

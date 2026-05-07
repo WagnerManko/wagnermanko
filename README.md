@@ -9,5 +9,5 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
  
 <p>:computer: <b>React JS</b></p>
 <p>:iphone: <b>React Native</b></p>
-<p>:office: <b>CompassUOL</b></p>
+<p>:office: <b>Compass UOL</b></p>
 <p>:mortar_board: <b>Gestão em TI</b></p>

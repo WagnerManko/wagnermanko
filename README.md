@@ -7,7 +7,7 @@ Sempre gostei bastante da parte visual das coisas, então me divirto bastante qu
 
 <br>
  
-<p>:computer: <b>ReactJS</b></p>
-<p>:iphone: <b>ReactJS</b></p>
+<p>:computer: <b>React JS</b></p>
+<p>:iphone: <b>React Native</b></p>
 <p>:office: <b>CompassUOL</b></p>
 <p>:mortar_board: <b>Gestão em TI</b></p>
